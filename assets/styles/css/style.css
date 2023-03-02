@@ -120,10 +120,10 @@ ul li {
 
 header {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 2fr 2fr 1fr 0fr;
   grid-gap: 20px;
   border-bottom: 1px dashed #ddd;
- 
+  padding-bottom: 20px;
   grid-area: header; /* header spans full columns */ 
 }
 
