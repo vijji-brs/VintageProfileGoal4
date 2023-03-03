@@ -120,7 +120,7 @@ ul li {
 
 header {
   display: grid;
-  grid-template-columns: 2fr 2fr 1fr 0fr;
+  grid-template-columns: 4fr 2fr 3fr 2fr;
   grid-gap: 20px;
   border-bottom: 1px dashed #ddd;
   padding-bottom: 20px;
@@ -128,7 +128,7 @@ header {
 }
 
 header p i {
-  vertical-align: middle;
+  vertical-align: right;
 	padding-right: 10px;
   }
 
